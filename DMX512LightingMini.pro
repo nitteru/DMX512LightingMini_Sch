@@ -1,4 +1,4 @@
-update=2017/08/22 22:28:14
+update=2017/09/23 16:46:02
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=C:/home/teruyuki/lib/LibraryLoader
+LibDir=E:/home/t_nishi/lib/LibraryLoader;E:/home/t_nishi/lib/MyLibrary
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=SamacSys_Parts
+LibName31=MyLibrary
