@@ -768,13 +768,13 @@
       (net 18 "Net-(Q3-Pad3)"))
   )
 
-  (module SOT65P210X90-3N (layer F.Cu) (tedit 59C633AF) (tstamp 59C683DB)
-    (at 175.03 120.03 180)
+  (module SOT65P210X90-3N (layer F.Cu) (tedit 59C78C06) (tstamp 59C683DB)
+    (at 175.63 120.03 180)
     (descr "UMT3_SOT-323 (SC70)")
     (tags Transistor)
     (path /59C61A25)
     (attr smd)
-    (fp_text reference Q5 (at 0 0 180) (layer F.SilkS)
+    (fp_text reference Q5 (at 0 0 360) (layer F.SilkS)
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     )
     (fp_text value 2SC1815 (at 0 0 180) (layer F.SilkS) hide
@@ -802,13 +802,13 @@
       (net 21 "Net-(Q5-Pad3)"))
   )
 
-  (module SOT95P280X100-3N (layer F.Cu) (tedit 59C64DC2) (tstamp 59C683F0)
+  (module SOT95P280X100-3N (layer F.Cu) (tedit 59C78C0F) (tstamp 59C683F0)
     (at 176.03 116.03 180)
     (descr TSMT3_2)
     (tags Transistor)
     (path /59C61A2B)
     (attr smd)
-    (fp_text reference Q6 (at 0 0 180) (layer F.SilkS)
+    (fp_text reference Q6 (at 0 0 360) (layer F.SilkS)
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     )
     (fp_text value Q_NMOS_GDS (at 0 0 180) (layer F.SilkS) hide
@@ -873,7 +873,7 @@
   )
 
   (module Resistors_SMD:R_0603_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 59C68412)
-    (at 188.715001 128.455)
+    (at 168.43 132.63)
     (descr "Resistor SMD 0603, hand soldering")
     (tags "resistor 0603")
     (path /59C5EFE4)
@@ -909,7 +909,7 @@
   )
 
   (module Resistors_SMD:R_0603_HandSoldering (layer F.Cu) (tedit 59C78A93) (tstamp 59C68423)
-    (at 176.03 124.03 270)
+    (at 160.33 122.23 270)
     (descr "Resistor SMD 0603, hand soldering")
     (tags "resistor 0603")
     (path /59AB5D48)
@@ -1053,7 +1053,7 @@
   )
 
   (module Resistors_SMD:R_0603_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 59C68467)
-    (at 184.355001 128.455)
+    (at 163.83 129.83)
     (descr "Resistor SMD 0603, hand soldering")
     (tags "resistor 0603")
     (path /59C61708)
@@ -1233,7 +1233,7 @@
   )
 
   (module Resistors_SMD:R_0603_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 59C684BC)
-    (at 179.775001 144.235)
+    (at 175.63 122.43)
     (descr "Resistor SMD 0603, hand soldering")
     (tags "resistor 0603")
     (path /59C61A37)
